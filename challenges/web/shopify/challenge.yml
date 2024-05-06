@@ -1,0 +1,23 @@
+name: "shpify"
+author: "codiac"
+category: web
+description: |-
+  I made this shop website, heck it's open source.
+
+  https://shopify.events-spark.tech
+
+  **author**: codiac
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+flags:
+  - Spark{fleg}
+tags:
+  - hard
+files:
+  - handout/shopify-v1.zip
+state: visible
+version: "0.1"

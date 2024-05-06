@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  app:
+    container_name: shopify
+    build: ./challenge
+    ports:
+      - 5000:5000
+    volumes:
+      - ./app:/app
+      - ./logs:/home/app/logs
+      - ./supervisord.log:/home/app/supervisord.log
+    entrypoint: supervisord -c /etc/supervisord.conf
+    environment:
+      - FLAG=Spark{fleg}
