@@ -6,9 +6,9 @@ services:
     ports:
       - 5000:5000
     volumes:
-      - ./app:/app
-      - ./logs:/home/app/logs
-      - ./supervisord.log:/home/app/supervisord.log
+      - ./challenge/app:/app
+      - ./challenge/logs:/home/app/logs
+      - ./challenge/supervisord.log:/home/app/supervisord.log
     entrypoint: supervisord -c /etc/supervisord.conf
     environment:
       - FLAG=Spark{fleg}
