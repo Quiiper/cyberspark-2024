@@ -1,0 +1,22 @@
+name: "RSA101"
+author: "Ayoub"
+category: Cryptography
+description: |-
+Should be easy i guess ...
+
+  **author**: Ayoub
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+flags:
+  - Spark{N0t_Y0Ur_R3GUL4R_T0Ti3Nt}
+tags:
+  - warmup
+files:
+  - handout/challenge.py
+  - handout/output.txt
+state: hidden
+version: "0.1"

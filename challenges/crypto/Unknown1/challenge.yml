@@ -1,0 +1,22 @@
+name: "Unknown1"
+author: "Ayoub"
+category: Cryptography
+description: |-
+I lost my exponent. But it's quite easy to recover, right ?!
+
+  **author**: Ayoub
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+flags:
+  - Spark{Sm4ll_ExP0nEnT_15_Ea5y_T0_GU3SS_RI6HT?!}
+tags:
+  - easy
+files:
+  - handout/challenge.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
