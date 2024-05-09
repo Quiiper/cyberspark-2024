@@ -1,0 +1,24 @@
+name: "Secure Hellman"
+author: "Quiiper"
+category: Cryptography
+description: |-
+ 
+
+  
+
+  **author**: Quiiper
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{ee99cadc1ef436aafaab8ad66b2d2cadd8674981}
+# tags:
+#   - 
+files:
+  - handout/source.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
