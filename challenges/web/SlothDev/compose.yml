@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  app:
+    container_name: Lazydev
+    build: ./challenge
+    ports:
+      - 7000:5000
+    volumes:
+      - ./challenge/*:/app
+    entrypoint: ["python", "app.py"]
+

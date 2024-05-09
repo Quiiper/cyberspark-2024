@@ -1,0 +1,21 @@
+name: "ScreenshotMe"
+author: "SPYN0ZA"
+category: Web
+description: |-
+  Check out my new screenshot tool , you might find something in the /flag.txt
+
+  **author**: SPYN0ZA
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{54Y_NH3B_MLOU5IY4_70_7H3_C4M3r4}
+tags:
+  - medium
+files:
+  - handout/ScreenshotMe.zip
+state: hidden
+version: "0.1"

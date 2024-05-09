@@ -1,0 +1,21 @@
+name: "SlothDev"
+author: "SPYN0ZA"
+category: Web
+description: |-
+  Description :)
+
+  **author**: SPYN0ZA
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{BARUCH_SP1N0ZA_7H3_60D_0F_SSTI}
+tags:
+  - easy
+files:
+  - handout/SlothDev.zip
+state: hidden
+version: "0.1"
