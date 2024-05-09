@@ -2,14 +2,14 @@ name: "Unknown1"
 author: "Ayoub"
 category: Cryptography
 description: |-
-I lost my exponent. But it's quite easy to recover, right ?!
+  I lost my exponent. But it's quite easy to recover, right ?!
 
   **author**: Ayoub
 value: 500
 type: dynamic
 extra:
   initial: 500
-  decay: 20
+  decay: 25
   minimum: 100
 flags:
   - Spark{Sm4ll_ExP0nEnT_15_Ea5y_T0_GU3SS_RI6HT?!}

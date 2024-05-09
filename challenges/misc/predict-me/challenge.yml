@@ -1,0 +1,23 @@
+name: "Predict me"
+author: "codiac"
+category: Misc
+description: |-
+  Someone said that you can predict me. Can you??
+
+  `nc misc.events-spark.tech 6000`
+
+  **author**: codiac
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{PR3D1CT10N_M4ST3R_GG}
+tags:
+  - medium
+files:
+  - handout/app.js
+state: hidden
+version: "0.1"

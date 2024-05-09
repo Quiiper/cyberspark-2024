@@ -11,14 +11,14 @@ value: 500
 type: dynamic
 extra:
   initial: 500
-  decay: 20
+  decay: 25
   minimum: 100
 flags:
   - Spark{b0a7a2e4653871eac135dc12024e8a04dbd76fbf}
 tags:
   - medium
 files:
-  - handout/source.py
+  - handout/encryption.py
   - handout/output.txt
 state: hidden
 version: "0.1"
