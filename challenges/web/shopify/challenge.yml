@@ -1,4 +1,4 @@
-name: "shopify"
+name: "Shopify"
 author: "codiac"
 category: Web
 description: |-
@@ -17,7 +17,8 @@ flags:
   - Spark{SK1LL3D_SH0P_H3CK3R_GG}
 tags:
   - hard
+  - sqli
 files:
   - handout/shopify-v1.zip
-state: visible
+state: hidden
 version: "0.1"

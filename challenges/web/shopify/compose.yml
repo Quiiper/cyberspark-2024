@@ -6,7 +6,7 @@ services:
     ports:
       - 5000:5000
     volumes:
-      - .challenge/app:/app
-      - .challenge/logs:/home/app/logs
-      - .challenge/supervisord.log:/home/app/supervisord.log
+      - ./challenge/app:/app
+      - ./challenge/logs:/home/app/logs
+      - ./challenge/supervisord.log:/home/app/supervisord.log
     entrypoint: supervisord -c /etc/supervisord.conf
