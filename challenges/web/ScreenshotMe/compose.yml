@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  app:
+    container_name: ScreenshotMe
+    build: ./challenge
+    ports:
+      - 4000:5000
+    volumes:
+      - ./challenge/*:/app
+    entrypoint: ["python", "app.py"]
+

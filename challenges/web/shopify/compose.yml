@@ -10,5 +10,3 @@ services:
       - ./challenge/logs:/home/app/logs
       - ./challenge/supervisord.log:/home/app/supervisord.log
     entrypoint: supervisord -c /etc/supervisord.conf
-    environment:
-      - FLAG=Spark{fleg}

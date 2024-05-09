@@ -1,0 +1,24 @@
+name: "TBD"
+author: "Quiiper"
+category: Cryptography
+description: |-
+ 
+
+  
+
+  **author**: Quiiper
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{09fdfd8d6cb3b67eade0952540dacf6e4f7fe0fe}
+tags:
+  - medium
+files:
+  - handout/source.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
