@@ -15,3 +15,4 @@ c = pow(bytes_to_long(flag), e2, n)
 
 print(f"n = {n}")
 print(f"c = {c}")
+print(f"phi = {phi})
