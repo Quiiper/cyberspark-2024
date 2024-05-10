@@ -1,0 +1,24 @@
+name: "CRACKY"
+author: "jouini"
+category: foren
+description: |-
+  Note: the router's WIFI password is in this format : 
+          isetcom{special character}{4-digits number}
+
+  wrap the filename in Spark{}.
+
+  **author**: jouini
+value: 500
+ype: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+ - Spark{74c68f1f36a5814cb30fb0b42f2b5b69} 
+tags:
+  - easy
+files:
+  -handout/trafficanti.pcap
+state: hidden
+version: "0.1"

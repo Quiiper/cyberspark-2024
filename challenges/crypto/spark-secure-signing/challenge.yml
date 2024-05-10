@@ -1,0 +1,21 @@
+name: "Spark Secure Signing"
+author: "Quiiper"
+category: Cryptography
+description: |-
+    desc
+
+    **author**: Quiiper
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{L00piN6_4R0uND_M0DuLU5}
+tags:
+  - rsa
+files:
+  - handout/server.py
+state: hidden
+version: "0.1"

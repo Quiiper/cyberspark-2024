@@ -1,0 +1,22 @@
+name: "Bite Me"
+author: "SPYN0ZA"
+category: Misc
+description: |-
+  i created this python app and i had no idea what it does.
+  but then charlie came along and bit me.
+  **author**: SPYN0ZA
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{CH4rlie_b1T_My_f1ng3r}
+tags:
+  - medium
+files:
+  - handout/biteme.mp4
+  - handout/pj5.py
+state: hidden
+version: "0.1"
