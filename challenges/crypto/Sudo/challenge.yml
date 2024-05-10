@@ -1,0 +1,22 @@
+name: "Sudo"
+author: "Ayoub"
+category: Cryptography
+description: |-
+    I was told that using a small exponent makes encryption faster. But, that shouldn't make a problem, right ?!
+
+  **author**: Ayoub
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+flags:
+  - Spark{L00piN6_4R0uND_M0DuLU5}
+tags:
+  - rsa
+files:
+  - handout/challenge.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
