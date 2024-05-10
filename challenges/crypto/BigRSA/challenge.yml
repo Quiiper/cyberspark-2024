@@ -4,7 +4,7 @@ category: Cryptography
 description: |-
     I encrypted my message with an exponent that is too big to be computed. But, I think you can work your way around and decrypt the ciphertext.
 
-  **author**: Ayoub
+    **author**: Ayoub
 value: 500
 type: dynamic
 extra:
