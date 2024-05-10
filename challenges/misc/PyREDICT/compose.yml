@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  predict:
+    container_name: PyREDICTOR
+    restart: unless-stopped
+    build:
+      context: ./challenge
+      dockerfile: Dockerfile
+    ports:
+      - "5000:1337"
+    privileged: true 

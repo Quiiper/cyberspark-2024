@@ -1,0 +1,21 @@
+name: "HidinginPlainZipSight"
+author: "ApeironDragon"
+category: Misc
+description: |-
+  Sometimes, you don't need a password to see the contents of an encrypted zip file. They are hiding in PlainZip sight!
+
+  **author**: ApeironDragon
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{PL41n_T3x7_4_7h3_w1N_789987}
+tags:
+  - easy
+files:
+  - handout/Spark.zip
+state: hidden
+version: "0.1"

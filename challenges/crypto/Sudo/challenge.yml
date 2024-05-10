@@ -1,8 +1,8 @@
-name: "Unknown1"
+name: "Sudo"
 author: "Ayoub"
 category: Cryptography
 description: |-
-    I lost my exponent. But it's quite easy to recover, right ?!
+    I was told that using a small exponent makes encryption faster. But, that shouldn't make a problem, right ?!
 
   **author**: Ayoub
 value: 500
@@ -12,9 +12,9 @@ extra:
   decay: 25
   minimum: 100
 flags:
-  - Spark{Sm4ll_ExP0nEnT_15_Ea5y_T0_GU3SS_RI6HT?!}
+  - Spark{L00piN6_4R0uND_M0DuLU5}
 tags:
-  - easy
+  - rsa
 files:
   - handout/challenge.py
   - handout/output.txt

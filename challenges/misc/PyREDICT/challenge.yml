@@ -1,0 +1,23 @@
+name: "PyREDICTOR"
+author: "codiac"
+category: Misc
+description: |-
+  Someone said that random isn't random enough. is it??
+
+  `nc misc.events-spark.tech 5000`
+
+  **author**: codiac
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{R4ND0M_1SNT_R4ND0M_4FT3R_4LL}
+tags:
+  - medium
+files:
+  - handout/app.py
+state: hidden
+version: "0.1"

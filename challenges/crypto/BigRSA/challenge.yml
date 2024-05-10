@@ -1,8 +1,8 @@
-name: "Unknown1"
+name: "BigRSA"
 author: "Ayoub"
 category: Cryptography
 description: |-
-    I lost my exponent. But it's quite easy to recover, right ?!
+    I encrypted my message with an exponent that is too big to be computed. But, I think you can work your way around and decrypt the ciphertext.
 
   **author**: Ayoub
 value: 500
@@ -12,9 +12,9 @@ extra:
   decay: 25
   minimum: 100
 flags:
-  - Spark{Sm4ll_ExP0nEnT_15_Ea5y_T0_GU3SS_RI6HT?!}
+  - Spark{RSA_Genius?!!!}
 tags:
-  - easy
+  - rsa
 files:
   - handout/challenge.py
   - handout/output.txt

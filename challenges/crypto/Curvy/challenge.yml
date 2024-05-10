@@ -1,10 +1,12 @@
-name: "RSA101"
-author: "Ayoub"
+name: "lonely && Curvy"
+author: "Quiiper"
 category: Cryptography
 description: |-
-    Should be easy i guess ...
+ 
 
-  **author**: Ayoub
+  
+
+  **author**: Quiiper
 value: 500
 type: dynamic
 extra:
@@ -12,11 +14,11 @@ extra:
   decay: 25
   minimum: 100
 flags:
-  - Spark{N0t_Y0Ur_R3GUL4R_T0Ti3Nt}
+  - Spark{S1ngl4r_3CC_Vulnr4bl3}'
 tags:
-  - warmup
+  - medium
 files:
-  - handout/challenge.py
+  - handout/source.py
   - handout/output.txt
 state: hidden
 version: "0.1"
