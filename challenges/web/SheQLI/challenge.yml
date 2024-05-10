@@ -1,0 +1,21 @@
+name: "SheQLI"
+author: "SPYN0ZA"
+category: Web
+description: |-
+  What can i say ? ...
+
+  **author**: SPYN0ZA
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{TH4T_W45_345Y_A1GHT_1M_0UT}
+tags:
+  - easy
+files:
+  - handout/SheQLI.zip
+state: hidden
+version: "0.1"
