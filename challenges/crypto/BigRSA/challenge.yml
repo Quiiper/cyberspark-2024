@@ -1,0 +1,22 @@
+name: "BigRSA"
+author: "Ayoub"
+category: Cryptography
+description: |-
+    I encrypted my message with an exponent that is too big to be computed. But, I think you can work your way around and decrypt the ciphertext.
+
+  **author**: Ayoub
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{RSA_Genius?!!!}
+tags:
+  - rsa
+files:
+  - handout/challenge.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
