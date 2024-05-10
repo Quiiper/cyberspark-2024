@@ -1,0 +1,24 @@
+name: "lonely && Curvy"
+author: "Quiiper"
+category: Cryptography
+description: |-
+ 
+
+  
+
+  **author**: Quiiper
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{S1ngl4r_3CC_Vulnr4bl3}'
+tags:
+  - medium
+files:
+  - handout/source.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
