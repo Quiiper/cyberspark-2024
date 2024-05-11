@@ -1,0 +1,23 @@
+name: "Codeium box"
+author: "codiac"
+category: Misc
+description: |-
+  I have a new sandbox and I think it is secure.
+
+  `nc misc.events-spark.tech 2000`
+
+  **author**: codiac
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{e7153366e152f58237b7509953444f70e9ee5200}
+tags:
+  - medium
+files:
+  - handout/app.js
+state: hidden
+version: "0.1"
