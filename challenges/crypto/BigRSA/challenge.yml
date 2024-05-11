@@ -2,7 +2,7 @@ name: "BigRSA"
 author: "Ayoub"
 category: Cryptography
 description: |-
-    I encrypted my message with an exponent that is too big to be computed. But, I think you can work your way around and decrypt the ciphertext.
+    Newton is me, But, I think you can work your way around and decrypt the ciphertext.
 
     **author**: Ayoub
 value: 500
