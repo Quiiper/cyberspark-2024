@@ -1,0 +1,25 @@
+name: "Kinda EZ RSA"
+author: "Quiiper"
+category: Cryptography
+description: |-
+ 
+
+  
+
+  **author**: Quiiper
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{ab4b5f8a879411e556590886f28090fa990aaa0f}
+
+tags:
+  - medium
+files:
+  - handout/source.py
+  - handout/output.txt
+state: hidden
+version: "0.1"
