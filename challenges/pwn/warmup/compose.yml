@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  predict:
+    container_name: warmup
+    restart: unless-stopped
+    build:
+      context: ./challenge
+      dockerfile: Dockerfile
+    ports:
+      - "1000:1000"
+    privileged: true 

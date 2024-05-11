@@ -1,0 +1,22 @@
+name: "1t's common !!!!"
+author: "1NF3RN0"
+category: Pwn
+description: |-
+    I was writing a simple C program, and when I compiled it, it showed that it was  vulnerable to a common exploit.
+  `nc 4.233.222.255 1001`
+
+  **author**: 1NF3RN0
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{My_B1n4ry_15_N07_S3CUR3}
+tags:
+
+files:
+  - handout/babybof.zip
+state: hidden
+version: "0.1"

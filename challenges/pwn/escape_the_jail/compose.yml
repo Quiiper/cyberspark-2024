@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  escape_the_jail:
+    container_name: escape_the_jail
+    restart: unless-stopped
+    build:
+      context: ./challenge
+      dockerfile: Dockerfile
+    ports:
+      - "1002:1002"
+    privileged: true

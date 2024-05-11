@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  predict:
+    container_name: logic_overflow
+    restart: unless-stopped
+    build:
+      context: ./challenge
+      dockerfile: Dockerfile
+    ports:
+      - "1003:1003"
+    privileged: true 
