@@ -3,9 +3,9 @@ author: "1NF3RN0"
 category: Pwn
 description: |-
    Just a simple warmup , pwn_it_2_own_it   
-  `nc 4.233.222.255 1000`
+    `nc 4.233.222.255 1000`
 
-  **author**: 1NFR3N0
+    **author**: 1NFR3N0
 value: 500
 type: dynamic
 extra:
@@ -14,7 +14,6 @@ extra:
   minimum: 100
 flags:
   - Spark{f0rm4t_5tring5_3zzz}
-tags:
 
 files:
   - handout/warmup.zip

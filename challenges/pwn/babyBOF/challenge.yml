@@ -3,9 +3,9 @@ author: "1NF3RN0"
 category: Pwn
 description: |-
     I was writing a simple C program, and when I compiled it, it showed that it was  vulnerable to a common exploit.
-  `nc 4.233.222.255 1001`
+    `nc 4.233.222.255 1001`
 
-  **author**: 1NF3RN0
+    **author**: 1NF3RN0
 value: 500
 type: dynamic
 extra:

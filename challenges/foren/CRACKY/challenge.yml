@@ -7,7 +7,7 @@ description: |-
 
   wrap the filename in Spark{}.
 
-  **author**: jouini
+  >Author: jouini
 value: 500
 ype: dynamic
 extra:
@@ -19,6 +19,6 @@ flags:
 tags:
   - easy
 files:
-  -handout/trafficanti.pcap
+  - handout/trafficanti.zip
 state: hidden
 version: "0.1"

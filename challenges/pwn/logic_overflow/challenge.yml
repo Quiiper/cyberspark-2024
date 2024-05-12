@@ -2,7 +2,7 @@ name: "logic_overflow"
 author: "1NF3RN0"
 category: Pwn
 description: |-
-   My friend's math skills are low, but if we encounter a flow in C then we're in trouble. Exploit the vulnerability and get the flag  
+  My friend's math skills are low, but if we encounter a flow in C then we're in trouble. Exploit the vulnerability and get the flag  
   `nc 4.233.222.255 1003`
 
   **author**: 1NFR3N0

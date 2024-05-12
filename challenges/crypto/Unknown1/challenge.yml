@@ -4,7 +4,7 @@ category: Cryptography
 description: |-
     I lost my exponent. But it's quite easy to recover, right ?!
 
-    **author**: Ayoub
+    >Author: Ayoub
 value: 500
 type: dynamic
 extra:

@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  gettheflag:
+    container_name: gettheflag
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8090:8090"
+    privileged: true

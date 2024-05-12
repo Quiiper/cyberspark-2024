@@ -4,7 +4,7 @@ category: Cryptography
 description: |-
     Newton is me, But, I think you can work your way around and decrypt the ciphertext.
 
-    **author**: Ayoub
+    >Author: Ayoub
 value: 500
 type: dynamic
 extra:
