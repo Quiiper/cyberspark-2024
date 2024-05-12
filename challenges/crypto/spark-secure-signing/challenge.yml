@@ -4,7 +4,7 @@ category: Cryptography
 description: |-
     desc
 
-    **author**: Quiiper
+    >Author: Quiiper
 value: 500
 type: dynamic
 extra:
@@ -12,7 +12,7 @@ extra:
   decay: 25
   minimum: 100
 flags:
-  - Spark{L00piN6_4R0uND_M0DuLU5}
+  - Spark{Th3_W04St_S1gn1ng_C0mp4nY_3v3r}
 tags:
   - rsa
 files:

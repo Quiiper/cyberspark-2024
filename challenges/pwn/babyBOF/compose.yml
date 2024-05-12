@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  predict:
+    container_name: babybof
+    restart: unless-stopped
+    build:
+      context: ./challenge
+      dockerfile: Dockerfile
+    ports:
+      - "1001:1001"
+    privileged: true 

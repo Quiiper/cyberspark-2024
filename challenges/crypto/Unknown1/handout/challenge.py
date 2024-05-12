@@ -1,7 +1,7 @@
-from Crypto.Util.number import getPrime
+from Crypto.Util.number import getPrime, bytes_to_long
 
 flag = open("flag.txt","rb").read()
-
+flag = bytes_to_long(flag)
 p = getPrime(128)
 q = getPrime(128)
 n = p*q

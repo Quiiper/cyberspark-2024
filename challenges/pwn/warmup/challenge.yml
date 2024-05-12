@@ -1,0 +1,21 @@
+name: "Warmup"
+author: "1NF3RN0"
+category: Pwn
+description: |-
+   Just a simple warmup , pwn_it_2_own_it   
+    `nc 4.233.222.255 1000`
+
+    **author**: 1NFR3N0
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{f0rm4t_5tring5_3zzz}
+
+files:
+  - handout/warmup.zip
+state: hidden
+version: "0.1"

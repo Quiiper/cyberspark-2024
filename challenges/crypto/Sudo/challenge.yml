@@ -4,7 +4,7 @@ category: Cryptography
 description: |-
     I was told that using a small exponent makes encryption faster. But, that shouldn't make a problem, right ?!
 
-    **author**: Ayoub
+    >Author: Ayoub
 value: 500
 type: dynamic
 extra:

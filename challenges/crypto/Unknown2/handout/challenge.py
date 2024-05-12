@@ -1,8 +1,7 @@
-from Crypto.Util.number import getPrime
+from Crypto.Util.number import getPrime,  bytes_to_long
 
 flag = open('flag.txt', 'rb').read()
-
-assert flag.startswith{b'Spark{'}
+flag = bytes_to_long(flag)
 
 p = getPrime(512)
 q = getPrime(512)

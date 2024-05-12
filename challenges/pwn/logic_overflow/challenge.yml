@@ -1,0 +1,22 @@
+name: "logic_overflow"
+author: "1NF3RN0"
+category: Pwn
+description: |-
+  My friend's math skills are low, but if we encounter a flow in C then we're in trouble. Exploit the vulnerability and get the flag  
+  `nc 4.233.222.255 1003`
+
+  **author**: 1NFR3N0
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{0v3fl0w_15_N07_0nly_1n_buff3r}
+tags:
+
+files:
+  - handout/logic_overflow.zip
+state: hidden
+version: "0.1"

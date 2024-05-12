@@ -1,0 +1,21 @@
+name: "Can You Fix Me?"
+author: "ApeironDragon"
+category: Misc
+description: |-
+  Think you can fix me? Twice?
+
+  >Author: ApeironDragon
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 25
+  minimum: 100
+flags:
+  - Spark{1_C0u1d_FiX_HxD3r}
+tags:
+  - easy
+files:
+  - handout/CyberSpark.jpg
+state: hidden
+version: "0.1"
