@@ -1,4 +1,4 @@
-# Cybermaze 2023-2024 MISC Writeups
+# Cyberspark 2023-2024 MISC Writeups
 
 > Author: Stylish 🗿
 > 
