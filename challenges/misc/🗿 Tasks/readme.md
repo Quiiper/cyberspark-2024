@@ -78,6 +78,8 @@ This is our final flag:
 ---
 
 # **2. From the RockBottom 🗿**
+![image](https://github.com/C0d1ac/cyberspark-2024/assets/120717514/4c67ae1b-f1e4-46fd-a4c1-4a5f0978b0d2)
+
 
 The hint to solving this task relies on another IOC found in the email  which is this strange username `ENGIN33R5PARK`
 
